@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@shopify/react-native-skia": "0.1.221",
+    "eas-cli": "^8.0.0",
     "expo": "~50.0.17",
     "expo-device": "~5.9.4",
     "expo-status-bar": "~1.11.1",
@@ -16,7 +18,8 @@
     "react-native": "0.73.6",
     "react-native-base64": "^0.2.1",
     "react-native-ble-plx": "^3.1.2",
-    "@shopify/react-native-skia": "0.1.221"
+    "expo-system-ui": "~2.9.4",
+    "expo-dev-client": "~3.3.11"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
